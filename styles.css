@@ -1,5 +1,5 @@
 html {
-	background-image: url("purple-sky-1287142.jpg");
+	background-image: url(purple-sky-1287142.jpg);
 }
 .img{
 	   padding: 50px;
@@ -90,4 +90,5 @@ input[type=text], select, textarea {
   background: #125688;
   color: white;
 }
+
 
